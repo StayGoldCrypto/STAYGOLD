@@ -1,5 +1,5 @@
 # STAYGOLD
-STAYGOLD Digital Assets Marketplace (Solana Utility Token)
+STAYGOLD Digital Assets Marketplace (BSC Token)
 
 Thank for Visit Us.
 
